@@ -46,10 +46,10 @@ Performed EDA using **MySQL** to:
 - Identify key variables correlated with churn
 
 ## 📊 Sample Visuals
-
+<img src="Dashboard.png" width="600"/>
 
 
 ## 📬 Contact
 **Nancy Gupta**
-Email: (nancyg8029@gmail.com)[nancyg8029@gmail.com]
-LinkedIn: (http://www.linkedin.com/in/nancy-gupta-784b5025a)[http://www.linkedin.com/in/nancy-gupta-784b5025a]
+- Email: [nancyg8029@gmail.com]
+- LinkedIn:[http://www.linkedin.com/in/nancy-gupta-784b5025a]
